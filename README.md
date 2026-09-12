@@ -13,11 +13,10 @@ statistics framework for comparing their empirical performance.
   standard deviation and standard error, logarithmic regression and
   goodness-of-fit, used to check empirically that tree operations run in
   O(log N) time.
-
+- **Report.pdf** - the group's
 Each tree implements a shared `AbstractSearchInterface` (`insertElement`,
 `searchElement`), defined at the top of its notebook. Delete is provided as an
 additional method outside that interface.
-- **Report.pdf** - the group's write-up of the comparison.
 
 ## Status
 
